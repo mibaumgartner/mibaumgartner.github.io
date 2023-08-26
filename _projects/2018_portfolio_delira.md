@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "delira - A Backend Agnostic High Level Deep Learning Library"
+excerpt: "Lightweight framework for fast prototyping and training deep neural networks with PyTorch and TensorFlow<br/><img src='/images/delira-svg'>"
 collection: portfolio
 ---
 
