@@ -1,6 +1,7 @@
 ---
 title: "Rising"
-excerpt: "<img src='/images/rising_logo.svg' alt=''>"
+excerpt: "<img src='/images/rising_logo_cropped.svg' alt=''>"
 collection: highlights
-code: 'https://github.com/PhoenixDL/rising'
+article_link: '/projects/2019_portfolio_rising/index.html'
+prio: 4
 ---

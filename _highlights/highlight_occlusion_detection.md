@@ -1,6 +1,7 @@
 ---
-title: "Occlusion Detection"
-excerpt: "<img src='/images/nnDetection.svg' alt=''>"
+title: "HD-Stroke"
+excerpt: "<img src='/images/stroke_cropped.svg' alt=''>"
 collection: highlights
-code: 'https://github.com/PhoenixDL/rising'
+article_link: '/publication/2023_Stroke.html'
+prio: 2
 ---

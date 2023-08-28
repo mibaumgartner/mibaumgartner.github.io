@@ -1,6 +1,7 @@
 ---
 title: "nnDetection"
-excerpt: "<img src='/images/nnDetection.svg' alt=''>"
+excerpt: "<img src='/images/nnDetection_cropped.svg' alt=''>"
 collection: highlights
-code: 'https://github.com/MIC-DKFZ/nnDetection'
+article_link: '/publication/2021_nnDetection.html'
+prio: 1
 ---
