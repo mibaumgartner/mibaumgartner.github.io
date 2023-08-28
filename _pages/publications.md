@@ -5,9 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %} -->
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-<!-- {% endif %} -->
+{% if site.author.googlescholar %}
+  <p> 
+  You can find the full list of my articles on 
+  <a href="{{ site.author.googlescholar }}" style="text-decoration:none"> my Google Scholar profile <i class="fab fa-fw fa-google zoom" aria-hidden="true"></i> </a>
+  </p>
+{% endif %}
 
 {% include base_path %}
 
