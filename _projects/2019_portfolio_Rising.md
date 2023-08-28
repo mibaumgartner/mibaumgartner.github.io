@@ -4,3 +4,11 @@ excerpt: "Rising is a high-performance data loading and augmentation library for
 collection: projects
 code: 'https://github.com/PhoenixDL/rising'
 ---
+
+<div align="center">
+    <img src='/images/dataloading_default.svg' alt=''>
+</div>
+
+<div align="center">
+    <img src='/images/dataloading_rising.svg' alt=''>
+</div>
