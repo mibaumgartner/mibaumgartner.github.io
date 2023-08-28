@@ -14,6 +14,7 @@
   padding-left: 2em;
   padding-right: 2em;
   font-family: $sans-serif;
+
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.30s;
@@ -175,7 +176,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: $nav-color;
 
   a {
     display: block;
