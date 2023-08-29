@@ -15,8 +15,11 @@ Simultaneous localisation and categorization of objects in medical images, also 
 Abstract was presented as an oral presentation during BVM 2022 and was awarded the best presentation award.
 {: .notice--success}
 
-Our submission to the MELA 2022 was based on nnDetection and ranked 3rd place. 3 out of 5 top performing solutions, including the winning solutions, were based on nnDetection.
+Our submission to the MELA 2022 was based on nnDetection and ranked 3rd place. Three out of five top performing solutions, including the winning solution, were based on nnDetection.
 {: .notice--success}
+
+<img src='/images/nnDetection.svg'>
+<br/>
 
 <div align="center">
     <img src='/images/nndetection_internals.png' alt=''>
