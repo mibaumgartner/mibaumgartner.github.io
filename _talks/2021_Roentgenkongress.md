@@ -3,9 +3,14 @@ title: "What’s Next: Technological Advancement for AI in Radiology On the hori
 collection: talks
 type: "Talk"
 permalink: /talks/2021_Roentgenkongress
-venue: "UC San Francisco, Department of Testing"
-date: 2021-03-01
-location: "San Francisco, California"
+venue: "102. Deutscher Roentgen Kongress"
+date: 2021-10-30
+location: "Virtual"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Presented selected topics about recent technological advancements in the field of artificial intelligence in radiology.
+The following areas were presented:
+- Transformers: Closing the Gap between Natural Language Processing (NLP) and Computer Vision (CV) in Medical Image Computing
+- Semi-Supervised Learning: How to learn from unlabelled Data?
+- Federated Learning: Big Data without Data Transfer
+- Generalisation to new data sets via self-configuring methods

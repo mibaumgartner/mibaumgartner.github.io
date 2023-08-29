@@ -3,9 +3,9 @@ title: "Self-configuring Methods for Deep Learning-based Biomedical Image Analys
 collection: talks
 type: "Talk"
 permalink: /talks/2022_Analytica
-venue: "UC San Francisco, Department of Testing"
-date: 2022-03-01
-location: "San Francisco, California"
+venue: "Analytica 2022"
+date: 2022-06-23
+location: "Muenchen, Germany"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Presented our work on self-configuring methods for deep learning-based biomedical image segmentation (nnU-Net) and object detection (nnDetection).
